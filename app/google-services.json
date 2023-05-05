@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "781438748087",
+    "project_id": "smartirrigation-e6fed",
+    "storage_bucket": "smartirrigation-e6fed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781438748087:android:31b890e4e38ebe945d5432",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781438748087-5fs337e2lam3ma3kg3ps1gtejvtmmems.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqJJ4DGxQeq8ZIui1OzQTmkYtVLBUS_Kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781438748087-5fs337e2lam3ma3kg3ps1gtejvtmmems.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
